@@ -19,4 +19,6 @@ $(document).ready(function() {
         cursorcolor: "#ffa500",
         cursorwidth: "10px"
     });
+
+
 })
